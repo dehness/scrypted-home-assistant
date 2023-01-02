@@ -26,7 +26,7 @@
       ]
    },
    "dependencies": {
-      "@scrypted/sdk": "0.0.45",
+      "@scrypted/sdk": "0.2.51",
       "axios": "^0.21.2",
       "home-assistant-js-websocket": "^4.2.2"
    },
